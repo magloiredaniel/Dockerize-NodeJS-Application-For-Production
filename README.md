@@ -186,7 +186,7 @@ docker run --name node_app -p 80:80 node_app_image
 ```
 Si tout va bien, vous verrez cette sortie :
 
-![Docker Folder](/images/docker-folder.png)
+![Docker Folder](/images/testOk.png)
 
 Sachez ouvrir votre navigateur et tapez :
 
